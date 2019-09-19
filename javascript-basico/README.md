@@ -6,4 +6,6 @@ App para ToDoList. Adicionando e excluindo tarefas.
 OBS: Utilizando `localStorage`
 
 
-#### promisses=> Atividade utilizando promisse
+#### promisses =>
+        - Atividade utilizando promisses
+        - App para listar repositórios de usuário do github
